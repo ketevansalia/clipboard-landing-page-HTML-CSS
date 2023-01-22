@@ -102,6 +102,7 @@
   font-size: 1.8rem;
   color: hsl(203, 8%, 56%);
   cursor: pointer;
+  list-style: none;
 }
 .list-item:hover,
 .list-item:active {
