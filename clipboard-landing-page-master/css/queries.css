@@ -1,0 +1,66 @@
+@media (max-width: 34em) {
+  .container {
+    margin-bottom: 12.8rem;
+  }
+  .header-logo {
+    background-image: linear-gradient(
+        to top,
+        rgba(255, 255, 255, 0.558),
+        rgba(255, 255, 254, 0.036)
+      ),
+      url("../images/bg-header-mobile.png");
+  }
+  .paragraph {
+    padding: 0 2.4rem;
+    text-align: center;
+  }
+  .btns {
+    flex-direction: column;
+    margin: 0 2rem;
+  }
+  .heading-snippets {
+    text-align: center;
+  }
+  .img-snippets {
+    width: 100%;
+    margin-left: 0;
+    padding: 0 2.4rem;
+  }
+  .snippets-orginize {
+    flex-direction: column;
+    margin-right: 0;
+  }
+  .img-access {
+    width: 100%;
+  }
+  .workflow-section {
+    padding: 0 2.4rem;
+  }
+  .workflow-list {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    gap: 4.8rem;
+  }
+  .paragraph-workflow {
+    padding: 0;
+  }
+  .logos {
+    flex-direction: column;
+    padding: 0 9.6rem;
+  }
+  .clipboard-section {
+    padding: 0 2.4rem;
+  }
+  .footer {
+    flex-direction: column;
+    gap: 4.8rem;
+  }
+  .list-footer {
+    display: flex;
+    flex-direction: column;
+  }
+  .list-item {
+    text-align: center;
+  }
+}
